@@ -1,0 +1,30 @@
+body {
+    background-color: #000000;
+    color: whitesmoke;
+    font-family: Arial;
+    margin-right: 50px;
+}
+
+#main-game {
+    float: left;
+}
+
+#upgrades {
+    float: right;
+}
+
+#upgrades button {
+    width: 100%;
+}
+
+#main-info {
+    text-align: center;
+}
+
+#news-container {
+    background-color: white;
+    color: black;
+    margin-left: 50px;
+    padding: 2px;
+    border-radius: 25px;
+}
