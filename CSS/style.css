@@ -49,3 +49,12 @@ body {
 #main-cookie:active {
   transform: translateY(4px);
 }
+
+@media screen and (max-width: 800px) {
+    #main-info, #main-game, #upgrades {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+    #news {
+        display: none;
+    }
+  }
