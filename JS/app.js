@@ -1,17 +1,4 @@
-localStorage.setItem("cookies", "0");
-localStorage.setItem("key", "value");
-localStorage.setItem("key", "value");
-localStorage.setItem("key", "value");
-localStorage.setItem("key", "value");
-localStorage.setItem("key", "value");
-localStorage.setItem("key", "value");
-localStorage.setItem("key", "value");
-localStorage.setItem("key", "value");
-localStorage.setItem("key", "value");
-localStorage.setItem("key", "value");
-localStorage.setItem("key", "value");
-
-var cookies = localStorage.getItem(cookies);
+var cookies = 0;
 var cookiesPerClick = 1;
 var cookiesPerSecond = 0;
 var cookiesPerClickPrice = 10;
